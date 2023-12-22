@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Bhavani Reddy Chalamalla, a Master's student in Data Science.
 Aspiring data scientist dedicated to leveraging analytical skills in machine learning, statistical modeling, and data visualization. Eager to collaborate on innovative projects, contribute to real-world solutions, and advance expertise in data-driven decision-making.
 
+#### Skills
 <!--
 **BhavaniChalamalla/BhavaniChalamalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
