@@ -10,6 +10,7 @@ Aspiring data scientist dedicated to leveraging analytical skills in machine lea
 
 ## Let's Connect
 Reach out to me at 📧 chalamallabhavani5@gmail.com
+
 Let's connect on LinkedIn! 🌐🔗 https://www.linkedin.com/in/bhavani-reddy-chalamalla.
 
 
