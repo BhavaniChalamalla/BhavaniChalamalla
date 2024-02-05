@@ -4,8 +4,13 @@ Aspiring data scientist dedicated to leveraging analytical skills in machine lea
 ## Skills
 - **Programming Languages:** R, Python (Numpy, Pandas, Matplotlib, Seaborn), SAS, C 
 - **Databases:** SQL (My SQL, Postgre SQL)
-- **Data Science** Data preprocessing, statistical programming and analysis, data visualization, Predictive modeling, Machine Learning (Regression, Classification(SVM, KNN, Logistic Regression, Naive Bayes), Principal Component Analysis
+- **Data Science** Data preprocessing, statistical programming and analysis, data visualization, Predictive modeling
+- **Machine Learning** Regression(linear, multiple, logistic), Classification(SVM, KNN, Naive Bayes, Random forest, XGBoost). 
 - **Web Designing** HTML, CSS, JavaScript
+
+## Let's Connect
+Reach out to me at 📧 chalamallabhavani5@gmail.com
+Let's connect on LinkedIn! 🌐🔗 https://www.linkedin.com/in/bhavani-reddy-chalamalla
 
 
 
