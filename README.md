@@ -2,10 +2,9 @@
 Aspiring data scientist dedicated to leveraging analytical skills in machine learning, statistical modeling, and data visualization. Eager to collaborate on innovative projects, contribute to real-world solutions, and advance expertise in data-driven decision-making.
 
 ## Skills 💻🤖📊
-- **Programming Languages:** R, Python (Numpy, Pandas, Matplotlib, Seaborn), SAS, C 
-- **Databases:** SQL (My SQL, Postgre SQL)
-- **Data Science** Data preprocessing, statistical programming and analysis, data visualization, Predictive modeling
-- **Machine Learning** Regression(linear, multiple, logistic), Classification(SVM, KNN, Naive Bayes, Random forest, XGBoost). 
+- **Programming Languages:** Python(Numpy, Pandas, Matplotlib, Seaborn, Scikit learn), R, SQL, SAS. 
+- **Tools:**  MySQL, Hadoop, Spark, TensorFlow, Scipy, Visual Studio. 
+- **Machine Learning:**  Regression(linear, multiple, logistic), Classification(SVM, CNN, Naive Bayes, Random forest, XGBoost).  
 - **Web Designing** HTML, CSS, JavaScript
 
 ## Let's Connect 🚀🤝 
